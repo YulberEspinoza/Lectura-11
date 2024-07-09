@@ -5,12 +5,12 @@ Contenido de audio y video
 ### 1.Explica cómo la capacidad de utilizar video y audio en la web ha ido evolucionando desde el comienzo de los 2000.
 Usar audio y video en la web por mucho tiempo, desde comienzos del 2000 cuando empezamos a tener un ancho de banda suficientemente rápido para soportar cualquier tipo de video (los archivos de video son mucho más grandes que texto o imágenes). En los inicios, las tecnologías web nativas como HTML no tenían el soporte para incrustar audio y video en la Web, tecnologías privadas (o basadas en plugins).
 
-### 2.Describe el uso de los atributos src y controls en el elemento "<video>".
+### 2.Describe el uso de los atributos src y controls en el elemento "video".
 El atributo *src* se utiliza para indicar el nombre del archivo de vídeo que se desea reproducir.
-Debes incluir una o más fuentes de vídeo dentro del elemento "*<video>*" utilizando la etiqueta "*<source>*".
+Debes incluir una o más fuentes de vídeo dentro del elemento "*video*" utilizando la etiqueta "*source*".
 Cada fuente de vídeo debe tener un atributo src que apunte a la ubicación del archivo de vídeo y un atributo type.
 
-### 3.¿Por qué es importante tener contenido de respaldo en el elemento "<video>"?
+### 3.¿Por qué es importante tener contenido de respaldo en el elemento "video"?
 Es importante por que va depender de los sistemas operativos o dispotivos y la accesibilidad, tener el respaldo nos ayuda a adaptarnos.
 
 ### 4.Escribe una historia corta en donde <audio> y <video> son personajes. A Complete Guide To Grid.
