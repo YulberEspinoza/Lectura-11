@@ -7,13 +7,13 @@ Usar audio y video en la web por mucho tiempo, desde comienzos del 2000 cuando e
 
 ### 2.Describe el uso de los atributos src y controls en el elemento <video>.
 El atributo *src* se utiliza para indicar el nombre del archivo de vídeo que se desea reproducir.
-Debes incluir una o más fuentes de vídeo dentro del elemento <video> utilizando la etiqueta <source>.
+Debes incluir una o más fuentes de vídeo dentro del elemento <video> utilizando la etiqueta "*<source>*".
 Cada fuente de vídeo debe tener un atributo src que apunte a la ubicación del archivo de vídeo y un atributo type.
 
 ### 3.¿Por qué es importante tener contenido de respaldo en el elemento <video>?
 Es importante por que va depender de los sistemas operativos o dispotivos y la accesibilidad, tener el respaldo nos ayuda a adaptarnos.
 
-### 4.Escribe una historia corta en donde <audio> y <video> son personajes. A Complete Guide To Grid
+### 4.Escribe una historia corta en donde <audio> y <video> son personajes. A Complete Guide To Grid.
 
 ### 5.¿En qué se diferencia el layout Grid del Flex?
 Flex: Diseñado para una dimensión (filas o columnas).
