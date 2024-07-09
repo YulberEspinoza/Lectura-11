@@ -4,24 +4,19 @@ Contenido de audio y video
 
 ### 1.Explica cómo la capacidad de utilizar video y audio en la web ha ido evolucionando desde el comienzo de los 2000.
 Usar audio y video en la web por mucho tiempo, desde comienzos del 2000 cuando empezamos a tener un ancho de banda suficientemente rápido para soportar cualquier tipo de video (los archivos de video son mucho más grandes que texto o imágenes). En los inicios, las tecnologías web nativas como HTML no tenían el soporte para incrustar audio y video en la Web, tecnologías privadas (o basadas en plugins).
-
 ### 2.Describe el uso de los atributos src y controls en el elemento "video".
 El atributo *src* se utiliza para indicar el nombre del archivo de vídeo que se desea reproducir.
 Debes incluir una o más fuentes de vídeo dentro del elemento "*video*" utilizando la etiqueta "*source*".
 Cada fuente de vídeo debe tener un atributo src que apunte a la ubicación del archivo de vídeo y un atributo type.
-
 ### 3.¿Por qué es importante tener contenido de respaldo en el elemento "video"?
 Es importante por que va depender de los sistemas operativos o dispotivos y la accesibilidad, tener el respaldo nos ayuda a adaptarnos.
-
 ### 4.Escribe una historia corta en donde <audio> y <video> son personajes. A Complete Guide To Grid.
-
 ### 5.¿En qué se diferencia el layout Grid del Flex?
 Flex: Diseñado para una dimensión (filas o columnas).
 Ideal para alinear elementos en una sola dirección.
 
 Grip: Diseñado para dos dimensiones (filas y columnas).
 Perfecto para crear diseños complejos y estructuras de cuadrícula.
-
 ### 6.Grid container, grid item, y grid line son algunos de los términos importantes que se deben entender al utilizar Grid. Por favor describe estos términos en unas pocas frases.
 Grid container:
 Es el elemento padre al que se le aplica display: grid.
